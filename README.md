@@ -1,5 +1,16 @@
+# Data Science Portfolio
+
 ### Hi there 👋
 
+Welcome to Amy's Github Page 😄
+
+This is my portfolio of data science projects written by me for academic, personal interests and self-learning purpose. Presented in the form of Jupyter notebooks, and R markdown files. 
+
+## Contents
+
+- ### Machine Learning
+
+  - [
 <!--
 **amyxcyyy/amyxcyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
