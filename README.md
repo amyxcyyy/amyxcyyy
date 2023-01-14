@@ -10,7 +10,9 @@ This is my portfolio of data science projects written by me for academic, person
 
 - ### Machine Learning
 
-  - [
+  - [Health status classification]: A model that performs multiclass classification prediction using various clsssification models including random forecast, logistic regression models, xgboost. 
+  
+ _Tools: scikit-learn, Pandas, numpy, Matplotlib
 <!--
 **amyxcyyy/amyxcyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
